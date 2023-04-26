@@ -19,6 +19,7 @@ function App() {
 				<div className="wrapper">
 					<Button />
 					<Button />
+					<Button />
 				</div>
 				<p>
 					Edit <code>src/App.jsx</code> and save to test HMR
